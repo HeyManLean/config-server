@@ -9,5 +9,3 @@ spring:
                 git:
                     uri: https://github.com/HeyManLean/config-server.git
                     searchPaths: ${APP_LOCATE:dev}
-                    username: heymanlean
-                    password: bin13078313586
